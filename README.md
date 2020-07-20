@@ -7,8 +7,7 @@ This application is providing users to be able to add expenses and deposits to t
 ### Heroku Application
 [Click Here to checkout a deployed application]()
 ### Screenshots
-![Workout-Tracker]()
-![Workout-Tracker]()
+![Budget-Trackeer]()
 
 ## User Story
 AS AN avid traveller
@@ -17,3 +16,14 @@ SO THAT my account balance is accurate when I am traveling
 
 ## Business Context
 Giving users a fast and easy way to track their money is important, but allowing them to access that information anytime is even more important. Having offline functionality is paramount to our applications success.
+
+## License
+![License](https://img.shields.io/badge/License-MIT%20License-blue)
+- **[MIT License](https://opensource.org/licenses/MIT)** 
+- 2020 PWA Budget Tracker
+
+## Questions
+| Ask me Now! |
+| :---: |
+| ![alt text](https://avatars0.githubusercontent.com/u/65268642?s=400&u=bd568c7596e7f6c9585caeb89e88b084e56c21f9&v=4 "Github Profile Picture") |
+| <a href="https://github.com/nuleeannajeon" target="_blank">Checkout Github Profile</a> |
