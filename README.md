@@ -5,9 +5,9 @@ This application is providing users to be able to add expenses and deposits to t
 
 ## Demo
 ### Heroku Application
-[Click Here to checkout a deployed application]()
+[Click Here to checkout a deployed application](https://evening-ocean-13264.herokuapp.com/)
 ### Screenshots
-![Budget-Trackeer]()
+![Budget-Trackeer](public/image/budget-tracker-screenshot.png)
 
 ## User Story
 AS AN avid traveller
